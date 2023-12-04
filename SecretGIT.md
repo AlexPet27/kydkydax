@@ -5,3 +5,6 @@
 ```sh
 git init
 ```
+```sh
+git add
+```

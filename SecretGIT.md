@@ -14,3 +14,9 @@ git log
 ```sh
 git commit
 ```
+```sh
+git diff
+```
+```sh
+git chechout
+```

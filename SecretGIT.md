@@ -15,8 +15,8 @@ git log - вызывать список действий и сохранений
 git commit - сохранение и коментарий к измененияем.
 ```
 ```sh
-git diff
+git diff - 
 ```
 ```sh
-git chechout
+git checkout
 ```

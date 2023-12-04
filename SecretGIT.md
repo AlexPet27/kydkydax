@@ -8,3 +8,6 @@ git init
 ```sh
 git add
 ```
+```sh
+git log
+```

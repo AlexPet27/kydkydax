@@ -11,3 +11,6 @@ git add
 ```sh
 git log
 ```
+```sh
+git commit
+```
